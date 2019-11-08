@@ -149,9 +149,9 @@ div.tw-pd-r-2 {
   padding-right: 0 !important;
 }
 
-/*::-webkit-scrollbar {
+::-webkit-scrollbar {
   display: none;
-}*/
+}
 
 #settings-wheel {
   position: absolute;
@@ -189,9 +189,9 @@ body .room-selector__header {
 body .pinned-cheer-v2 {
   display: none !important;
 }
-/*.scrollable-area .simplebar-track {
+.scrollable-area .simplebar-track {
   display: none !important;
-}*/
+}
 
 body .chat-list__list-footer {
   display: none !important;
